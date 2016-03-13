@@ -102,6 +102,5 @@ ggplot(avgActivity2, aes(interval, steps)) +
     xlab("interval") + 
     ylab("average number of steps")
 ```
-The Conclusion
-
+# The Conclusion
 Activities on weekdays mostly follow a certain routine thus indicated by peaks over 100 steps. On the other hand, there is a more regular distribution of activities on weekends.
